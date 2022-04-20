@@ -1,0 +1,9 @@
+C:\Users\MohammadJohar\Downloads\ETL-Repo-master\ETL-Repo-master\FarmSystem.Test1\bin\Debug\FarmSystem.Test1.exe.config
+C:\Users\MohammadJohar\Downloads\ETL-Repo-master\ETL-Repo-master\FarmSystem.Test1\bin\Debug\FarmSystem.Test1.exe
+C:\Users\MohammadJohar\Downloads\ETL-Repo-master\ETL-Repo-master\FarmSystem.Test1\bin\Debug\FarmSystem.Test1.pdb
+C:\Users\MohammadJohar\Downloads\ETL-Repo-master\ETL-Repo-master\FarmSystem.Test1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MohammadJohar\Downloads\ETL-Repo-master\ETL-Repo-master\FarmSystem.Test1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MohammadJohar\Downloads\ETL-Repo-master\ETL-Repo-master\FarmSystem.Test1\obj\Debug\FarmSystem.Test.csproj.AssemblyReference.cache
+C:\Users\MohammadJohar\Downloads\ETL-Repo-master\ETL-Repo-master\FarmSystem.Test1\obj\Debug\FarmSystem.Test.csproj.CoreCompileInputs.cache
+C:\Users\MohammadJohar\Downloads\ETL-Repo-master\ETL-Repo-master\FarmSystem.Test1\obj\Debug\FarmSystem.Test1.exe
+C:\Users\MohammadJohar\Downloads\ETL-Repo-master\ETL-Repo-master\FarmSystem.Test1\obj\Debug\FarmSystem.Test1.pdb
